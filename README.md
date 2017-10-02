@@ -9,3 +9,13 @@ Rohingya is a dark sublime text 3 color scheme
 
 # Php
 ![php](https://user-images.githubusercontent.com/32423657/31104212-93f5486a-a7d3-11e7-8cca-7b9e30be7358.PNG)
+
+# Css
+![css](https://user-images.githubusercontent.com/32423657/31104241-c7600f28-a7d3-11e7-8f16-01c6ef43d5c1.PNG)
+
+# Install
+
+Ctrl +  Shift + p >  Install Package > Rohingya-dark-sublime-text-3-color-scheme
+
+Stop
+Stop the 'ethnic cleansing' of Rohingya!
