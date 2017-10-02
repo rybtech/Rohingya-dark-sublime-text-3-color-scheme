@@ -6,3 +6,6 @@ Rohingya is a dark sublime text 3 color scheme
 
 # Javascript 
 ![javascript](https://user-images.githubusercontent.com/32423657/31104171-57d8e74c-a7d3-11e7-958d-ce9922bb63e3.PNG)
+
+# Php
+![php](https://user-images.githubusercontent.com/32423657/31104212-93f5486a-a7d3-11e7-8cca-7b9e30be7358.PNG)
