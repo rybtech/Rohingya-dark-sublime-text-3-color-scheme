@@ -15,7 +15,10 @@ Rohingya is a dark sublime text 3 color scheme
 
 # Install
 
-Ctrl +  Shift + p >  Install Package > Rohingya-dark-sublime-text-3-color-scheme
+Ctrl +  Shift + p >  Install Package > Rohingya-dark-sublime-text-3-color-scheme.
+enjoy 
 
-Stop
+
+
+# Stop
 Stop the 'ethnic cleansing' of Rohingya!
